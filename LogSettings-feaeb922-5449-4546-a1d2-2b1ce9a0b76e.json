@@ -1,0 +1,14 @@
+0581b4d44c162b5512a392235c657f6e{
+    "LogLevel": "Debug",
+    "ShowExecutionStart": false,
+    "ShowExecutionEnd": false,
+    "ShowThreadUsageTime": true,
+    "ThreadUsageTimeIntervalMs": 10000,
+    "ShowThread": true,
+    "UseColoredLogs": false,
+    "JsonLogs": true,
+    "ShowLogs": true,
+    "ShowVcSdkLogs": false,
+    "ShowMoseLibLogs": false,
+    "MaxLogLength": 10000
+  }
